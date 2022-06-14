@@ -53,7 +53,9 @@
 | LSTM + GRU + Drop Out  | 0.0983 | 0.8664 |
 | LSTM + Drop Out + GRU + Drop Out| 0.0981 | 0.8662 |
 
-![ex_screenshot](./image/test.png)
+
+
+![캡처](/image/test.PNG)
 
 ## 🔍 회고
 
