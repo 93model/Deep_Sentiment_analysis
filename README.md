@@ -10,7 +10,7 @@
 : 20만건
 - 스팀(steam) 게임 플랫폼의 리뷰  (https://github.com/bab2min/corpus/tree/master/sentiment)   
   : 10만건
-- AI hub 감성 말뭉치 (https://aihub.or.kr/opendata/keti-data/recognition-laguage/KETI-02-010)  
+- AI hub 감성 말뭉치 (https://aihub.or.kr/aidata/7978)
   : 8만건 -> 전처리 후 4만건
 
 ## 🛠 문제
